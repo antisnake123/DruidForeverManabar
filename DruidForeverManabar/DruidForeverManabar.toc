@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: Druid Forever Manabar
+## Notes: Druid mana bar and 5-second-rule tracker for WoW Forever.
+## Author: antisnake
+## Version: 1.0.3
+## SavedVariables: DruidForeverManabarDB
+
+DruidForeverManabar.lua
