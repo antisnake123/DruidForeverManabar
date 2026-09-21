@@ -162,19 +162,13 @@ It primarily relies on Blizzard events for spell and resource updates rather tha
 Bug Reports
 
 If you encounter an issue, please include:
-
 What you were doing when the issue occurred
-
 Your current Druid form
-
 The spell or ability involved
-
 Any Lua error message
-
 Output from /dfm debug, if relevant
 
 Version
-
 1.0.3
 
 Author
